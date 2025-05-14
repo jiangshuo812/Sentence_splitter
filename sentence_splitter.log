@@ -1,0 +1,18 @@
+2025-05-14 15:44:04.224 | INFO     | __main__:__init__:14 - 成功加载spaCy模型
+2025-05-14 15:44:04.224 | ERROR    | __main__:read_text_file:27 - 读取文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:44:04.224 | ERROR    | __main__:process_file:76 - 处理文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:44:04.224 | ERROR    | __main__:main:93 - 程序执行出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:50:13.947 | INFO     | __main__:__init__:14 - 成功加载spaCy模型
+2025-05-14 15:50:13.947 | ERROR    | __main__:read_text_file:27 - 读取文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:50:13.947 | ERROR    | __main__:process_file:76 - 处理文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:50:13.947 | ERROR    | __main__:main:93 - 程序执行出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:52:02.620 | INFO     | __main__:__init__:14 - 成功加载spaCy模型
+2025-05-14 15:52:02.620 | ERROR    | __main__:read_text_file:27 - 读取文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:52:02.620 | ERROR    | __main__:process_file:76 - 处理文件时出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:52:02.620 | ERROR    | __main__:main:93 - 程序执行出错: [Errno 2] No such file or directory: 'input.txt'
+2025-05-14 15:54:40.542 | INFO     | __main__:__init__:20 - 成功加载spaCy模型
+2025-05-14 15:54:40.558 | INFO     | __main__:split_sentences:50 - 成功分割出 7 个句子
+2025-05-14 15:54:40.559 | INFO     | __main__:process_file:79 - 结果已保存到 test_output.json
+2025-05-14 16:06:34.898 | INFO     | __main__:__init__:20 - 成功加载spaCy模型
+2025-05-14 16:06:35.036 | INFO     | __main__:split_sentences:50 - 成功分割出 74 个句子
+2025-05-14 16:06:35.036 | INFO     | __main__:process_file:79 - 结果已保存到 test_1_output.json
